@@ -1,8 +1,3 @@
-#include <bits/stdc++.h>
-
-#include <iostream>
-using namespace std;
-
 class Solution {
    public:
     vector<int> generateRow(int n) {
@@ -24,5 +19,3 @@ class Solution {
         return ans;
     }
 };
-
-int main() { return 0; }
