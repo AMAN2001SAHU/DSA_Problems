@@ -46,11 +46,9 @@ The repository is structured as follows:
 ```
 ├── Array/
 │   ├── problem1.cpp
-│   ├── problem2.py
 │   └── ...
 ├── LinkedList/
-│   ├── problem1.java
-│   ├── problem2.py
+│   ├── problem1.cpp
 │   └── ...
 ├── ...
 ├── README.md
